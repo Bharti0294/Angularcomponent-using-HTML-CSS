@@ -1,0 +1,9 @@
+.div {
+    float: left;
+    background-color: rgb(255, 0, 191);
+    width: 25%;
+    height: 100px;
+    padding: 30px;
+    box-sizing: border-box;
+    
+}

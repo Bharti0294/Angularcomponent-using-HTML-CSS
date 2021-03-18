@@ -1,0 +1,9 @@
+.container {
+    float: left;
+    background-color: fuchsia;
+    width: 25%;
+    height: 100px;
+    padding: 30px;
+    box-sizing: border-box;
+   
+}
